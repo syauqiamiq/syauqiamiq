@@ -11,7 +11,7 @@ And now im interesting to study Go for backend and deepen my knowledge of Fronte
 - 👍 Well Motivated, and Fast Learner
 - 👨🏼‍💻🏼 Web Development Enthusiast
 - 😇 Work with positive vibes
-- - 💬 Ask me about frontend development
+- 💬 Ask me about frontend development
 
 📭 Reach me by email at syauqiamiq.work@gmail.com
 

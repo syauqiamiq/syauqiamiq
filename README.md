@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Let me introduce my self 
 
-<!--
-**syauqiamiq/syauqiamiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Name is Oki
+## _A Beginner Frontend Developer_
 
-Here are some ideas to get you started:
+My name is Muhammad Syauqi Amiq Amrullah, you can call me Oki,
+I am an active student majoring in informatics Engineering at the University of Muhammadiyah Malang.
+Currently im interested in Web Development, especially in Frontend Development.
+And now im interesting to study Go for backend and deepen my knowledge of Frontend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👍 Well Motivated, and Fast Learner
+- 👨🏼‍💻🏼 Web Development Enthusiast
+- 😇 Work with positive vibes
+- - 💬 Ask me about frontend development
+
+📭 Reach me by email at syauqiamiq.work@gmail.com
+

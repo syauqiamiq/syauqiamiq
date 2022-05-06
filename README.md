@@ -13,5 +13,10 @@ And now im interesting to study Go for backend and deepen my knowledge of Fronte
 - 😇 Work with positive vibes
 - 💬 Ask me about frontend development
 
+My Stack
+- Golang (currently learn)
+- Javascript
+- HTML/CSS
+
 📭 Reach me by email at syauqiamiq.work@gmail.com
 

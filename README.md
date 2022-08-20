@@ -1,7 +1,7 @@
 ### Hi there 👋, Let me introduce my self 
 
 # My Name is Oki
-## _A Beginner Frontend Developer_
+## _A Junior Frontend Developer_
 
 My name is Muhammad Syauqi Amiq Amrullah, you can call me Oki,
 I am an active student majoring in informatics Engineering at the University of Muhammadiyah Malang.

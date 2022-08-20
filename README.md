@@ -15,8 +15,9 @@ And now im interesting to study Go for backend and deepen my knowledge of Fronte
 
 My Stack
 - Golang (currently learn)
-- Javascript
-- HTML/CSS
+- Javascript/TypeScript
+- Next.js
+- Material UI
 
 📭 Reach me by email at syauqiamiq.work@gmail.com
 

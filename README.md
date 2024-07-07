@@ -31,7 +31,7 @@
 <a href="#" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
 <a href="#" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href="#" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href="#" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/amplify'> </a>
+<a href="#" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/amplify.svg'> </a>
 
 
 <br>

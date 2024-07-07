@@ -17,11 +17,9 @@
  
 
 </a>
- <div  style="background-color: white !important;" >
+<div  style="background-color: white !important; width: 45px;" >
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
   </div>
-
-
 
 
   
